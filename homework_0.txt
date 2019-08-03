@@ -1,1 +1,2 @@
-﻿this is my first commit
+﻿Second try to do correctly HW-0 ;)
+ this is my first commit
